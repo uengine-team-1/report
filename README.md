@@ -213,6 +213,10 @@
 
 * MSA-EZ 에서 기본 코드 생성하는 방법에 대해서는 https://youtu.be/ing_t9mPGxQ 와 https://youtu.be/x7UxrqC02JY 를 참조한다.
 
+<iframe width="715" height="572" src="https://www.youtube.com/embed/x7UxrqC02JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ```
 cd app
 mvn spring-boot:run
